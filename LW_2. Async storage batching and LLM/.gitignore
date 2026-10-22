@@ -1,0 +1,8 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+agro_scoring.db
+agro_scoring.db-wal
+agro_scoring.db-shm
