@@ -1,0 +1,6 @@
+{
+  "prompt": "Объясни в двух предложениях, зачем API нужен request_id.",
+  "model": "auto",
+  "temperature": 0.3,
+  "max_tokens": 300
+}

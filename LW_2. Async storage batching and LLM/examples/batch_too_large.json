@@ -1,0 +1,103 @@
+{
+  "items": [
+    {
+      "farm_id": "FARM-BATCH-001",
+      "region": "Krasnodar",
+      "crop_type": "wheat",
+      "area_ha": 2500,
+      "temperature_avg": 24.3,
+      "precipitation_mm": 320,
+      "payment_delay_days": 15,
+      "previous_defaults": 0,
+      "debt": 1500000
+    },
+    {
+      "farm_id": "FARM-BATCH-002",
+      "region": "Rostov",
+      "crop_type": "wheat",
+      "area_ha": 1800,
+      "temperature_avg": 23,
+      "precipitation_mm": 250,
+      "payment_delay_days": 45,
+      "previous_defaults": 0,
+      "debt": 1500000
+    },
+    {
+      "farm_id": "FARM-BATCH-003",
+      "region": "Krasnodar",
+      "crop_type": "wheat",
+      "area_ha": 2500,
+      "temperature_avg": 24.3,
+      "precipitation_mm": 320,
+      "payment_delay_days": 45,
+      "previous_defaults": 1,
+      "debt": 6500000
+    },
+    {
+      "farm_id": "FARM-BATCH-001",
+      "region": "Krasnodar",
+      "crop_type": "wheat",
+      "area_ha": 2500,
+      "temperature_avg": 24.3,
+      "precipitation_mm": 320,
+      "payment_delay_days": 15,
+      "previous_defaults": 0,
+      "debt": 1500000
+    },
+    {
+      "farm_id": "FARM-BATCH-002",
+      "region": "Rostov",
+      "crop_type": "wheat",
+      "area_ha": 1800,
+      "temperature_avg": 23,
+      "precipitation_mm": 250,
+      "payment_delay_days": 45,
+      "previous_defaults": 0,
+      "debt": 1500000
+    },
+    {
+      "farm_id": "FARM-BATCH-003",
+      "region": "Krasnodar",
+      "crop_type": "wheat",
+      "area_ha": 2500,
+      "temperature_avg": 24.3,
+      "precipitation_mm": 320,
+      "payment_delay_days": 45,
+      "previous_defaults": 1,
+      "debt": 6500000
+    },
+    {
+      "farm_id": "FARM-BATCH-001",
+      "region": "Krasnodar",
+      "crop_type": "wheat",
+      "area_ha": 2500,
+      "temperature_avg": 24.3,
+      "precipitation_mm": 320,
+      "payment_delay_days": 15,
+      "previous_defaults": 0,
+      "debt": 1500000
+    },
+    {
+      "farm_id": "FARM-BATCH-002",
+      "region": "Rostov",
+      "crop_type": "wheat",
+      "area_ha": 1800,
+      "temperature_avg": 23,
+      "precipitation_mm": 250,
+      "payment_delay_days": 45,
+      "previous_defaults": 0,
+      "debt": 1500000
+    },
+    {
+      "farm_id": "FARM-BATCH-003",
+      "region": "Krasnodar",
+      "crop_type": "wheat",
+      "area_ha": 2500,
+      "temperature_avg": 24.3,
+      "precipitation_mm": 320,
+      "payment_delay_days": 45,
+      "previous_defaults": 1,
+      "debt": 6500000
+    }
+  ]
+}
